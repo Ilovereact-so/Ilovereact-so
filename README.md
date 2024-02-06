@@ -1,4 +1,4 @@
-<img src="https://github.com/Ilovereact-so/Ilovereact-so/GitProfile.png" />
+<img src="https://github.com/Ilovereact-so/Ilovereact-so/blob/main/GitProfile.png" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ilovereact-so&color=blue)
 
