@@ -14,7 +14,7 @@
 ![Knex.js](https://img.shields.io/badge/-knex.js-05122A%3F?style=for-the-badge&logo=knex.js&logoColor=%23D66E32&color=white)
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A%3F?style=for-the-badge&logo=Jquery&logoColor=black&color=%23DFDFDF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A%3F?style=for-the-badge&logo=JavaScript&logoColor=black&color=%23EEE350)
-![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-05122A%3F?style=for-the-badge&logo=Visual%20Studio&logoColor=white&color=%235CCCDE)
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-05122A%3F?style=for-the-badge&logo=Visual%20Studio&logoColor=white&color=%235CCCDE)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A%3F?style=for-the-badge&logo=three.js&logoColor=white&labelColor=black&color=black)
 ![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-05122A%3F?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2349CCFE)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A%3F?style=for-the-badge&logo=GitHub&logoColor=white&color=%23414141)
