@@ -4,9 +4,10 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### I'm a 🇵🇱 Frontend Developer living in 🇵🇱 and working on personal brand in [CreateUP](https://srv45036.seohost.com.pl/).
+### I'm a 🇵🇱 Frontend Developer living in 🇵🇱 and working on personal brand in [Wibbly](https://wibbly.pl).
 
 ### Languages & Tools 🛠
+
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A%3F?style=for-the-badge&logo=React&logoColor=white&color=%2349CCFE)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-05122A%3F?style=for-the-badge&logo=React&logoColor=%2345D3E9&color=white)
 ![NPM](https://img.shields.io/badge/-npm-05122A%3F?style=for-the-badge&logo=npm&logoColor=white&color=%23FF2D2D)
@@ -23,4 +24,3 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A%3F?style=for-the-badge&logo=CSS3&logoColor=white&color=%23218ACF)
 ![AdobeXD](https://img.shields.io/badge/-Adobe%20XD-05122A%3F?style=for-the-badge&logo=Adobe%20XD&logoColor=%23991FC4&color=white)
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A%3F?style=for-the-badge&logo=Mysql&logoColor=white&color=%23D66E32)
-
